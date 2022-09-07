@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+body {
+    background-image: url(img/espaco-900red.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p {
+    text-align: center;
+}
